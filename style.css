@@ -1,0 +1,23 @@
+body {
+    background-image: url(tropical.jpg);
+
+}
+
+article {
+    background: white;
+    max-width: 70%;
+    margin: 4rem auto 4rem auto;
+    border-radius: 15px;
+    padding: 2rem;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+}
+
+h1 {
+    font-family: 'Domine', serif;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
